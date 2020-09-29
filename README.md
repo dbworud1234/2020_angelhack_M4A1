@@ -157,4 +157,4 @@ qr코드 생성은 QRGenearator 라이브러리를 이용해 구현하였습니�
   * '선결제 POINT 내역' 버튼을 누르면 해당 가게에서 선결제를 한 손님들의 리스트를 볼 수 있고, 각 손님들의 선결제 잔액을 확인할 수 있습니다.
   
  ### 4. 데모 영상
- [![착한 선결제 데모 영상](http://img.youtube.com/vi/KT39vx-9Hr0/0.jpg)](https://www.youtube.com/watch?v=KT39vx-9Hr0) 
+ [![착한 선결제 데모 영상](http://img.youtube.com/vi/KT39vx-9Hr0/0.jpg)](https://www.youtube.com/watch?v=KT39vx-9Hr0) <br> 데모 영상 이미지 링크(Youtube)
